@@ -1,0 +1,38 @@
+# macOS
+.DS_Store
+
+# Xcode
+*.xcworkspace
+*.xcuserdata
+*.xccheckout
+*.xcscmblueprint
+
+# Swift Package Manager
+.build/
+Package.resolved
+
+# CocoaPods
+Pods/
+*.lock
+.podspec
+.swiftpm/xcode
+
+# Carthage
+Carthage/Build
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/report.html
+
+# Derived data
+DerivedData/
+
+# Build products
+*.app
+*.ipa
+*.dSYM
+build/
+*.xcarchive
